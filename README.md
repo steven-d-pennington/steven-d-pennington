@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Steve Pennington
+# 👋 Hi, I'm Steven Pennington
 
 ## 🚀 Senior Software Engineer / AWS Cloud Architect
 

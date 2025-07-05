@@ -22,7 +22,7 @@ I'm a passionate technologist with extensive experience building, scaling, and s
   *ColdFusion Developer* — Helped increase claim processing speed from a full day to just seconds.
 
 - **NetWORLD Connections:**  
-  *Founder, Developer & Systems Engineer* — Built an entire internet service provider from the ground up. Became the 2nd leading provider in Salt Lake City, UT, and deployed a city-wide wireless network.
+  *Founder, Developer & Systems Engineer* — Built an entire internet service provider from the ground up including all accounting, customer billing, a software replsitory, and one of the first web based email portals. Became the 2nd leading provider in Salt Lake City, UT, and deployed a city-wide wireless network.
 
 - **Extended Care Professional LLC:**  
   *Senior Software Engineer* — Led the migration to AWS and developed new features for our SaaS platform, helping us become the second-leading provider in our industry for long-term care software.
